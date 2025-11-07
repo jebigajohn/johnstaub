@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://orlandidev.com" target="_blank">orlandidev.com</a><br>
   <em>Exploring better developer workflows and automation.</em><br>
   #neovim #tmux #archlinux
 </p>
