@@ -48,7 +48,7 @@ an upcoming AI-enhanced damage reporting tool developed with **Blazor Server & S
 ---
 
 ### 📫 Contact
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/jhnstaub/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -60,6 +60,6 @@ an upcoming AI-enhanced damage reporting tool developed with **Blazor Server & S
 
 ---
 
-<p align="left">
+<p align="center">
   <sub>© 2025 John Staub — Software Developer | Focused on performance, reliability & clean architecture.</sub><br>
 </p>
